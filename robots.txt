@@ -1,0 +1,7 @@
+User-agent: *
+
+
+Disallow: /rsvp/
+Disallow: /info/
+Disallow: /hotel/
+Disallow: /
